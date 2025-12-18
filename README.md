@@ -23,7 +23,7 @@ jczaplewski-hw6/
 
 ## How to Run
 Clone the repository:
-git clone https://github.com/yourusername/hawkid-hw6.git
+git clone https://github.com/jczaplewski/jczaplewski-hw6.git
 Open the project folder.
 
 Double-click index.html to view the page in a web browser.
